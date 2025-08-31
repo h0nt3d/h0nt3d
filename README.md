@@ -5,5 +5,3 @@
 My name is Michael, I find interest in embedded system development. I also like to hack and read about open source software.
 
 Github: https://github.com/h0nt3d
-
-[The Conscience of a Hacker](https://phrack.org/issues/7/3).
