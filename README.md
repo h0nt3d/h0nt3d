@@ -8,4 +8,6 @@ Why Marcus Holloway is the goat! 🔥
 - He can hack 💻
 - He fights for justice 🦸
 
-<img src="https://github.com/h0nt3d/profileConfig/blob/main/profile.gif?raw=true" alt="Sample Image" width="600" height="400">
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/h0nt3d/profileConfig/blob/main/profile.gif?raw=true" alt="Sample Image" width="600" height="400"/>
+</div>
